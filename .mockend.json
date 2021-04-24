@@ -1,8 +1,6 @@
 {
   "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
+ 
 
     "comments": "Comment[]"
   },
